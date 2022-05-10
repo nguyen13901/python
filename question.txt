@@ -1,0 +1,6 @@
+# When to use class methods and when to use static methods ?
+# Different between us ?
+# argument and parameter
+# __repr__ and __str__
+# @name_attribute.deleter
+# multi inheritance

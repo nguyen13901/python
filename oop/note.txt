@@ -1,0 +1,7 @@
+OOP
+- __init__, instance attributes, class attributes
+- Class method, static method
+- inheritance
+- Special method: __str__, __repr__
+- Dunder method: __add__, __sub__, __len__ ....
+- Property, setter, deleter
